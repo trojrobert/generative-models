@@ -1,2 +1,3 @@
 .vscode/
 autoencoder_env
+variationalAE/run/VAE/
