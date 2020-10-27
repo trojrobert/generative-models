@@ -1,5 +1,5 @@
 brotli==1.0.7
-cryptography==3.0
+cryptography==3.2
 Cython==0.29.21
 ipaddr==2.2.0
 keras==2.4.3
